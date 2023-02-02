@@ -1,3 +1,3 @@
 # login_page
 Simple Login page
-url of login pagr is https://dadhimukh.github.io/login_page/
+url of login page is https://dadhimukh.github.io/login_page/
